@@ -11,6 +11,7 @@ The data was analysed using Python 3.11.1, and the following libraries:
 - [Numpy](https://numpy.org/)
 - [Plotly](https://plotly.com/)
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
+
 The analysis was done in a Jupyter Notebook, which can be found [here](notebook.ipynb).
 
 ## About the data
